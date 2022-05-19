@@ -1,8 +1,9 @@
 .header {
+    border-bottom: 20px #89DEEF;
     padding: 10px;
     text-align: left;
     background: #004175;
     color: white;
     font-size: 20px;
-    border-bottom: 20px #89DEEF;
+    
 }
