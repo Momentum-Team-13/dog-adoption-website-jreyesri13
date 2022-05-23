@@ -1,22 +1,3 @@
-<p>Beans</p>
+Need to fix footer
 
-    <p>Zelda</p>
-
-    <p>Baby</p>
-
-    <p>Tom-Tom</p>
-
-    <p>Marco</p>
-
-    <p>Shackleton</p>
-
-    <p>Midge</p>
-
-    <p>Ladybird</p>
-
-    <p>Mina</p>
-
-
-    Add margin to foot
-
-    
+Add margin to foot
