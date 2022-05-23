@@ -1,9 +1,8 @@
-.header {
-    border-bottom: 10px solid #89DEEF;
-    padding: 10px;
-    text-align: left;
+header {
     background: #004175;
     color: white;
+    font-family: "Open Sans";
     font-size: 20px;
-    
+    border-bottom: 3px solid #89DEEF;
+    padding: 5px 60px;
 }
