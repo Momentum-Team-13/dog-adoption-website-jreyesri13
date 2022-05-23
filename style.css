@@ -6,3 +6,63 @@ header {
     border-bottom: 3px solid #89DEEF;
     padding: 5px 60px;
 }
+
+footer {
+    background: #A6A9F0;
+    color: white;
+    display: flex;
+    font-family: "Oswald";
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.foot {
+    color: white;
+    font-family: "Oswald";
+    font-size: 50px;
+}
+
+.tinted-image1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+    width: 25%;
+    height: 300px;
+
+    background:
+        linear-gradient(rgba(166, 169, 240, 0.45),
+            rgba(166, 169, 240, 0.45)),
+        url(starter_files/images/donate.jpg);
+
+
+}
+
+.tinted-image2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+    width: 25%;
+    height: 300px;
+
+    background:
+        linear-gradient(rgba(166, 169, 240, 0.45),
+            rgba(166, 169, 240, 0.45)),
+        url(starter_files/images/volunteer.jpg);
+}
+
+.tinted-image3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+    width: 25%;
+    height: 300px;
+
+    background:
+        linear-gradient(rgba(166, 169, 240, 0.45),
+            rgba(166, 169, 240, 0.45)),
+        url(starter_files/images/location.png);
+
+}
