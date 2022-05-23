@@ -1,3 +1,1 @@
-Need to fix footer
-
-Add margin to foot
+Fix footer image size
